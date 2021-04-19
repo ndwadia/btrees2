@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	compare "example.com/ndwadia/btrees2/code"
-	tree "example.com/ndwadia/btrees2/code"
+	compare "github.com/ndwadia/btrees2/code"
+	tree "github.com/ndwadia/btrees2/code"
 )
 
 func main() {

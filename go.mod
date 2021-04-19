@@ -1,3 +1,3 @@
-module example.com/ndwadia/btrees2
+module github.com/ndwadia/btrees2
 
 go 1.15
